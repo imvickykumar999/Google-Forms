@@ -1,4 +1,6 @@
 
+// <script type="text/javascript" src="resources/help desk.js"></script>
+
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 
 (function(){
